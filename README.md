@@ -193,6 +193,28 @@ Period marking
 />
 ```
 
+Bottom label marking
+
+**CAUTION**: (Only works with markingType={'custom'} )
+
+<kbd>
+  <img height=50 src="https://raw.githubusercontent.com/LetsNurtureGit/react-native-calendars/custom-day-bottom-label/demo/marking_brief.png?raw=true">
+</kbd>
+
+<p></p>
+
+```javascript
+<Calendar
+  // Collection of dates that have to be colored in a special way. Default = {}
+  markedDates={{
+    '2020-03-12': {startingDay: true,  brief: '$ 234'},
+    '2020-03-14': {endingDay: true, brief: '$ 192'},
+  }}
+  // Date marking style [custom]. Default = 'simple'
+  markingType={'custom'}
+/>
+```
+
 Multi-period marking
 
 <kbd>
