@@ -198,7 +198,7 @@ Bottom label marking
 **CAUTION**: (Only works with markingType={'custom'} )
 
 <kbd>
-  <img height=50 src="https://github.com/wix-private/wix-react-native-calendar/blob/master/demo/marking_brief.png?raw=true">
+  <img height=50 src="https://raw.githubusercontent.com/LetsNurtureGit/react-native-calendars/custom-day-bottom-label/demo/marking_brief.png?raw=true">
 </kbd>
 
 <p></p>
