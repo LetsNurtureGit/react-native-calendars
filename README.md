@@ -17,7 +17,7 @@ The package is both **Android** and **iOS** compatible.
 You can run example module by performing these steps:
 
 ```
-$ git clone git@github.com:wix/react-native-calendars.git
+$ git clone git@github.com:LetsNurtureGit/react-native-calendars.git
 $ npm install
 $ react-native run-ios
 ```
